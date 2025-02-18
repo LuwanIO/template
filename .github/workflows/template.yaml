@@ -2,7 +2,7 @@ name: Build and Publish
 
 env:
   REGISTRY: ghcr.io
-  GITHUB_REPOSITORY_OWNER: LuwanIO
+  GITHUB_REPOSITORY_OWNER: luwanio
 
 on:
   workflow_call:
