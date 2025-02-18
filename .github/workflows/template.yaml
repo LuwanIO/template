@@ -2,7 +2,7 @@ name: Build and Publish
 
 env:
   REGISTRY: ghcr.io
-  GITHUB_REPOSITORY_OWNER: ticketsbot-cloud
+  GITHUB_REPOSITORY_OWNER: LuwanIO
 
 on:
   workflow_call:
